@@ -12,7 +12,8 @@ Este repositório foi criado para aprender e praticar os conhecimentos adquirido
 - Investigar possibilidades de resolução de problemas de código;
 - Selecionar operadores lógicos adequados para diferentes situações;
 - Produzir soluções simples para páginas dinâmicas;
-
+  
+**O projeto já possui os arquivos de HTML e CSS providos pelo professor, para que o foco seja exclusivamente no desenvolvimento em JavaScript.**
 ## 🔨 Funcionalidades do projeto
 
 ![Gif do AluraMidi](./images/video-tela-aluramidi.gif)
